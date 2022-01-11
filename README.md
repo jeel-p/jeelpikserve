@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jeelpikserve, And you can address my by my Firstname "Jeel".
+- 👀 I’m interested in Python based projects whether it's about AI, ML or any other Web based projects.
+- 🌱 I’m currently learning P2P Blockchain Network and also working on TCP based web applications also reseaching on Biological topics, specifically Neurology and "How minds work?".
+- 🍻 Nowadays, I'm working on Blockchain based and web3 based Applications also working on Python based API's for creating easily accessible environment.
+- 💞️ I’m looking to collaborate on Python based and API based projects.
+- 📫 How to reach me out via my mail.
